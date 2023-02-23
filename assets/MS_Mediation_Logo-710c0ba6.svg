@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Ebene_2" data-name="Ebene 2" viewBox="0.01 0 529.99 174.52">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-family: Bahnschrift, Bahnschrift;
+        font-size: 70px;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-8 {
+        letter-spacing: .05em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        stroke: #fff;
+      }
+
+      .cls-11, .cls-12, .cls-13 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        fill: #f15a24;
+      }
+
+      .cls-16 {
+        letter-spacing: .06em;
+      }
+
+      .cls-17 {
+        letter-spacing: .02em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 25.54px;
+      }
+
+      .cls-6 {
+        letter-spacing: .01em;
+      }
+
+      .cls-19 {
+        letter-spacing: .01em;
+      }
+
+      .cls-7 {
+        font-family: Bahnschrift-SemiBold, Bahnschrift;
+        font-size: 70.24px;
+        font-variation-settings: 'wght' 600, 'wdth' 100;
+        font-weight: 600;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: .02em;
+      }
+
+      .cls-12 {
+        stroke-width: 4px;
+      }
+
+      .cls-12, .cls-13 {
+        opacity: .5;
+        stroke: #000;
+      }
+
+      .cls-13 {
+        stroke-linecap: round;
+        stroke-width: 16px;
+      }
+
+      .cls-22 {
+        letter-spacing: .05em;
+      }
+
+      .cls-23 {
+        letter-spacing: .06em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: .03em;
+      }
+
+      .cls-26 {
+        letter-spacing: .06em;
+      }
+    </style><style class="darkreader darkreader--sync" media="screen"/>
+  </defs>
+  <g id="Logo">
+    <g id="Welle">
+      <rect id="Rahmen" class="cls-11" x="17.05" y="19.69" width="496.97" height="139.41"/>
+      <circle class="cls-15" cx="119.74" cy="87.26" r="87.26"/>
+      <path id="Welle-2" data-name="Welle" class="cls-13" d="m522,57.47c-60.66,1.06-140.47,56.4-173.46,56.4s-58.53-51.08-85.13-51.08-45.76,24.48-63.85,24.48c-21.28,0-46.83-49.43-78.75-50.02-30-.55-51.08,50.02-112.8,50.02"/>
+      <circle class="cls-12" cx="119.74" cy="87.26" r="79.81"/>
+    </g>
+    <g id="Ebene_1-2" data-name="Ebene 1">
+      <text class="cls-7" transform="translate(75.32 109.66)"><tspan x="0" y="0" xml:space="preserve">MS   M</tspan></text>
+      <text class="cls-7" transform="translate(284.62 109.66) scale(.7)"><tspan x="0" y="0">E</tspan><tspan class="cls-20" x="41.98" y="0">DI</tspan><tspan class="cls-18" x="106.04" y="0">A</tspan><tspan class="cls-17" x="150.14" y="0">T</tspan><tspan class="cls-24" x="185.33" y="0">I</tspan><tspan class="cls-20" x="204.67" y="0">O</tspan><tspan x="249.32" y="0">N</tspan></text>
+      <text class="cls-5" transform="translate(77.27 141.4)"><tspan class="cls-26" x="0" y="0">Neue</tspan><tspan class="cls-2" x="62.19" y="0"> </tspan><tspan class="cls-21" x="68.12" y="0">W</tspan><tspan class="cls-23" x="90.31" y="0">ege e</tspan><tspan class="cls-22" x="155.54" y="0">n</tspan><tspan class="cls-26" x="171.04" y="0">ts</tspan><tspan class="cls-8" x="192.47" y="0">t</tspan><tspan class="cls-23" x="202.2" y="0">ehen beim </tspan><tspan class="cls-16" x="335.88" y="0">G</tspan><tspan class="cls-26" x="353.93" y="0">ehen</tspan></text>
+    </g>
+    
+  </g>
+</svg>
